@@ -1,50 +1,105 @@
-# Hi there, I'm [Harsha vardhan Namasani] 👋
-### Cyber Security Enthusiast | Soc analyst | Blue/Red Team Learner
+# 👋 Hi, I'm Namasani Harsha Vardhan
 
-A passionate cybersecurity learner focused on threat analysis, penetration testing, and securing digital environments. Constantly building labs, solving CTFs, and documenting my security journey.
+## 🛡️ Cyber Security Enthusiast | Aspiring SOC Analyst | B.Tech Student
 
----
-
-### 🛡️ Core Cybersecurity Focus
-- 🔴 **Red Teaming / Pentesting:** Web Application Pentesting, Privilege Escalation, Network Exploitation.
-- 🔵 **Blue Teaming / SOC:** Log Analysis, Incident Response, SIEM (Splunk/ELK), Threat Hunting.
-- ⚙️ **SecOps / Automation:** Scripting tools for automation, Network Security Monitoring.
-
-### 💻 Technical Toolbelt
-<p align="left">
-  <!-- Operating Systems -->
-  <img src="https://shields.io" alt="Kali"/>
-  <img src="https://shields.io" alt="Linux"/>
-  
-  <!-- Languages -->
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="Bash"/>
-  
-  <!-- Tools -->
-  <img src="https://shields.io" alt="Wireshark"/>
-  <img src="https://shields.io" alt="Metasploit"/>
-  <img src="https://shields.io" alt="Nmap"/>
-  <img src="https://shields.io" alt="Splunk"/>
-</p>
-
-### 🏆 Certifications & Training (In Progress / Completed)
-- [ ] CompTIA Security+ *(Studying)*
-- [x] TryHackMe - [Your Rank/Level or Pathway Name]
-- [ ] Hack The Box - [543]
-
-### 📁 Pinned Cyber Projects & Writeups
-<!-- Note: Link these to your actual repositories below -->
-1. **[Home Lab Setup](./)** - Documentation of my Active Directory / SIEM home lab environment.
-2. **[CTF Writeups](./)** - Detailed walkthroughs of HackTheBox, TryHackMe, and PortSwigger labs.
-3. **[Security Tools](./)** - Custom Python/Bash scripts built for reconnaissance and automation.
+Welcome to my GitHub profile! I am passionate about Cyber Security, Threat Detection, and Incident Response. My goal is to become a highly skilled Security Operations Center (SOC) Analyst and contribute to protecting organizations from cyber threats.
 
 ---
 
-### 📊 GitHub Stats & Metrics
-![Your GitHub Stats](https://vercel.app[Harsha20073]&show_icons=true&theme=dark)
-![Top Langs](https://vercel.app[Harsha20073]&layout=compact&theme=dark)
+## 🚀 About Me
+🔹 B.Tech Student specializing in Computer Science and Cyber Security
+
+🔹 Passionate about:
+- Security Operations Center (SOC)
+- Threat Hunting & Threat Intelligence
+- Digital Forensics
+- Incident Response
+- Network Security
+- Malware Analysis
+- Ethical Hacking
+- SIEM Technologies
+
+🔹 Continuously learning and building cybersecurity projects to gain practical experience.
 
 ---
 
-### 📩 Connect With Me
-[💼 LinkedIn](https://linkedin.com[www.linkedin.com/in/harsha-vardhan-90933434b) |  | [📧 Email](namasaniharshavardhan@gmail.com)
+## 🎯 Current Learning Journey
+📚 Security Information and Event Management (SIEM)
+
+📚 Splunk & ELK Stack
+
+📚 Wireshark & Network Traffic Analysis
+
+📚 Linux & Windows Security
+
+📚 Python for Cyber Security Automation
+
+📚 MITRE ATT&CK Framework
+
+📚 Threat Intelligence & Dark Web Monitoring
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C
+- SQL
+
+### Cyber Security Tools
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
+- Splunk
+- ELK Stack
+- Nessus
+- Kali Linux
+
+### Operating Systems
+- Windows
+- Linux (Ubuntu & Kali)
+
+---
+
+## 🔥 Featured Projects
+🛡️ Dark Web Threat Monitoring System
+
+🛡️ Password Strength Checker
+
+🛡️ Mini Vulnerability Scanner
+
+🛡️ Phishing Detection System
+
+🛡️ Secure Chat Application
+
+🛡️ Personal Firewall using Python
+
+---
+
+## 📜 Certifications
+🏆 Python Programming Internship
+
+🏆 Cyber Security Fundamentals
+
+🏆 Network Security Essentials
+
+🏆 Ethical Hacking Basics
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha20073&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha20073&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+📧 Email: namasaniharshavardhan@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/harsha-vardhan-90933434b
+
+🌟 "Cyber Security is not just a profession, it's a mission to protect the digital world."
